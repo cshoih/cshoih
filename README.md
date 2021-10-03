@@ -32,7 +32,16 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 
 ★★★★★★★★★★ = God-Tier
 
-★ = Fetus-Tier
+★★★★★★★★☆☆ = Mastery
+
+★★★★★★☆☆☆☆ = Fluency
+
+★★★★☆☆☆☆☆☆ = Intermediate
+
+★★☆☆☆☆☆☆☆☆ = Beginner
+
+☆☆☆☆☆☆☆☆☆☆ = Peasantry 
+
 
 * HTML ★★☆☆☆☆☆☆☆☆
 
