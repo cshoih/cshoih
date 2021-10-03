@@ -15,9 +15,11 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 
 ![](https://img.shields.io/badge/-INTERESTS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-* AI
+* AI,Machine Learning
 
-* Machine Learning
+* Quantitative Analysis
+
+* Web Development 
 
 * Educational Software
 
