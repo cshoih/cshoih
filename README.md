@@ -19,7 +19,7 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 
 * Machine Learning
 
-* Education Software
+* Educational Software
 
 * Medical Software
 
