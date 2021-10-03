@@ -30,17 +30,17 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 
 ![](https://img.shields.io/badge/-LANGUAGES-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 
-★★★★★★★★★★ = God-Tier
+> ★★★★★★★★★★ = God-Tier
 
-★★★★★★★★☆☆ = Mastery
+> ★★★★★★★★☆☆ = Mastery
 
-★★★★★★☆☆☆☆ = Fluency
+> ★★★★★★☆☆☆☆ = Fluency
 
-★★★★☆☆☆☆☆☆ = Intermediate
+> ★★★★☆☆☆☆☆☆ = Intermediate
 
-★★☆☆☆☆☆☆☆☆ = Beginner
+> ★★☆☆☆☆☆☆☆☆ = Beginner
 
-☆☆☆☆☆☆☆☆☆☆ = Peasantry 
+> ☆☆☆☆☆☆☆☆☆☆ = Peasantry 
 
 
 * HTML ★★☆☆☆☆☆☆☆☆
