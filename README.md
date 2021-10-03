@@ -28,7 +28,9 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 
 ![](https://img.shields.io/badge/-LANGUAGES-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 
-★★★★★★★★★★ = God-Tier, ★ = Fetus-Tier
+★★★★★★★★★★ = God-Tier
+
+★ = Fetus-Tier
 
 * HTML ★★☆☆☆☆☆☆☆☆
 
