@@ -11,7 +11,7 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 ![](https://img.shields.io/badge/-PROJECTS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 
 1. *WEBSITE*
-> Goal: Apply HTML knowledge by creating a beta website unrestricted by the Mainland Chinese Firewall that amplifies the educational knowledge of GenZ culture, slangs and improving authentic English for Chinese teens. (status: private)
+> Goal: Apply HTML and other programming knowledge by creating a beta website unrestricted by the Mainland Chinese Firewall that amplifies the educational knowledge of GenZ culture, slangs and improving authentic English for Chinese teens. (status: private)
 
 ![](https://img.shields.io/badge/-INTERESTS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
