@@ -44,11 +44,11 @@ I’m exploring GitHub and gaining inspiration on interesting projects. (Not loo
 > ☆☆☆☆☆☆☆☆☆☆ = Peasantry 
 
 
-* HTML ★★☆☆☆☆☆☆☆☆
+* HTML ★★★☆☆☆☆☆☆☆
 
-* CSS ★☆☆☆☆☆☆☆☆☆
+* CSS ★★☆☆☆☆☆☆☆☆
 
-* JavaScript ★☆☆☆☆☆☆☆☆☆
+* JavaScript ★★☆☆☆☆☆☆☆
 
 * Python ★★☆☆☆☆☆☆☆☆☆
 
