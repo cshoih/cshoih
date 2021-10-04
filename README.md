@@ -35,8 +35,8 @@ I’m exploring GitHub and gaining inspiration on interesting projects.
 
 `Projects`
 
-1. *WEBSITE*
-> Goal: Apply HTML and other programming knowledge by creating a beta website unrestricted by the Mainland Chinese Firewall that amplifies the educational knowledge of GenZ culture, slangs and improving authentic English for Chinese teens. 
+1. WEBSITE
+> Goal: To apply web programming knowledge by creating a beta website that amplifies the educational knowledge of GenZ culture, slang and English authenticity for Chinese teens. Creating this would heighten the appreciation of culture exchange and gives an opportunity for them to communicate more naturally, especially with the prohibition of many foreign outlets due to the Mainland Chinese Firewall.
 > >*Status: Private*
 
 
