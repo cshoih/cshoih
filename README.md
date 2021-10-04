@@ -20,7 +20,7 @@
 | CSS | ★★☆☆☆☆☆☆☆☆ |
 | JavaScript |★★☆☆☆☆☆☆☆|
 | Python | ★★☆☆☆☆☆☆☆☆☆☆ |
-| Markdown | ★★★★★★☆☆☆ |
+| Markdown | ★★★★★☆☆☆☆ |
 
 
 ![](https://img.shields.io/badge/-BACKGROUND-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
