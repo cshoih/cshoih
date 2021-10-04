@@ -33,8 +33,6 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 | Markdown | ★★★★★☆☆☆☆☆ |
 
 
-<div dir="rtl">https://unsplash.com/photos/vlJ6OKier0c</div>
-
 `Projects`
 
 1. WEBSITE
