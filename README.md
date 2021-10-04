@@ -1,6 +1,6 @@
 ## Hi, I’m @cshoih , aka <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cinghoih" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/cinghoih?trk=profile-badge">Cing Hoih</a></div>
               
-`Unofficial Proficiency Tier`
+`Unofficial Proficiency Tier` <img align="right" width="300" height="500" src="https://images.unsplash.com/photo-1597305877032-0668b3c6413a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2864&q=80">
 
 > ★★★★★★★★★★ = God-Tier
 
