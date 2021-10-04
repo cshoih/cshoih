@@ -22,7 +22,6 @@
 | Python | ★★☆☆☆☆☆☆☆☆☆☆ |
 | Markdown | ★★★★★☆☆☆☆ |
 
-
 ![](https://img.shields.io/badge/-BACKGROUND-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
 
 I’m currently in high school. I will attend university in 2023, most likely a double degree in commerce and computer science to upscale my skills to become a software engineer and to engage in the entrepreneurial route as well.
