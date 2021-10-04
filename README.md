@@ -9,7 +9,7 @@ I’m currently in high school. I will attend university in 2023 to attain a dou
 I’m exploring GitHub and gaining inspiration on interesting projects. I also want to establish a strong programming portfolio to display my ideas and embark my contribution to the tech world.
 
  
-`Unofficial Proficiency Tier` <img align="right" width="300" height="500" src="https://images.unsplash.com/photo-1567882885929-0c8bd797559e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=770&q=80">
+`Unofficial Proficiency Tier` <img align="right" width="300" height="490" src="https://images.unsplash.com/photo-1567882885929-0c8bd797559e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=770&q=80">
 
 > ★★★★★★★★★★ = Deity = 10/10
 
