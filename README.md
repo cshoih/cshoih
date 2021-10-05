@@ -2,7 +2,7 @@
  
 `Background`
 
-I’m currently in high school. I will attend university in 2023 to attain a double degree in commerce and computer science and upscale my skills to become a software engineer whilst engaging in the commercial route as well.
+I’m currently in high school. I will attend university in 2023 to attain a double degree in commerce and computer science, which would allow me to develop the skills necessary to become a software engineer whilst engaging in the entrepreneurial route as well.
 
 `Purpose`
 
