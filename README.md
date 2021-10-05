@@ -32,7 +32,7 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 | HTML |★★★☆☆☆☆☆☆☆ |
 | CSS | ★★☆☆☆☆☆☆☆☆ |
 | JavaScript |★★☆☆☆☆☆☆☆☆|
-| Python | ★★☆☆☆☆☆☆☆☆ |
+| Python | ★★★☆☆☆☆☆☆☆ |
 | Markdown | ★★★★★☆☆☆☆☆ |
 
 
