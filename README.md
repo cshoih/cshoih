@@ -1,4 +1,7 @@
 ## Hi, I’m @cshoih <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cinghoih" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/cinghoih?trk=profile-badge">Cing Hoih</a></div>
+_Disclaimer for smartphone users: I haven't optimised this .md file for portrait mode. Enter in landscape mode for the best experience._
+
+
  
 `Background`
 
@@ -55,10 +58,11 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 * Threat Mitigation
 
 
-
-
-
-
+<p align="middle">
+  <img src="https://img.shields.io/github/commit-activity/m/cshoih/cshoih?color=%23F8DEF4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/cshoih?color=%23F8DEF4&style=for-the-badge"/> 
+  <img src="https://img.shields.io/github/watchers/cshoih/cshoih?color=%23F8DEF4&style=for-the-badge"/>
+</p>
 
 <!---
 cshoih/cshoih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
