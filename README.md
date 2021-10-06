@@ -45,17 +45,17 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 
 `Interests`
 
-* AI, Machine Learning
+* AI, Machine Learning; AI Medical Diagnosing, Predict Stocks.
 
-* Quantitative Analysis
+* Quantitative Analysis; Bitcoin, Investments, Finance.
 
-* Web Development 
+* Web Development; UI, UX.
 
-* Educational Software
+* Educational Software; Language, Early Development Learning, General Education.
 
-* Medical Software
+* Medical Software; Dermatology, Psychology, Mental Health.
 
-* Threat Mitigation
+* Threat Mitigation; Cybersecurity.
 
 
 <p align="middle">
