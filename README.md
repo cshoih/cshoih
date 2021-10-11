@@ -47,7 +47,7 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 
 * AI, Machine Learning; AI Medical Diagnosing, Predict Stocks.
 
-* Quantitative Analysis; Bitcoin, Investments, Finance.
+* Quantitative Analysis; Cryptocurrency, Investments, Finance.
 
 * Web Development; UI, UX.
 
