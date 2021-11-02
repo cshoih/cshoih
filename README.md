@@ -30,10 +30,10 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 | Language | Ability |
 | ----------- | ----------- |
 | HTML |★★★☆☆☆☆☆☆☆ |
-| CSS | ★★☆☆☆☆☆☆☆☆ |
+| CSS | ★★★☆☆☆☆☆☆☆ |
 | JavaScript |★★☆☆☆☆☆☆☆☆|
 | Python | ★★★☆☆☆☆☆☆☆ |
-| Markdown | ★★★★★☆☆☆☆☆ |
+| Markdown | ★★★★★★☆☆☆☆ |
 
 
 `Projects`
