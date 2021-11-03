@@ -5,7 +5,7 @@ _Disclaimer for smartphone users: I haven't optimised this .md file for portrait
  
 `Background`
 
-I’m currently in high school. I will attend university in 2023 to attain a double degree in commerce and computer science. This will enable me to develop the skills necessary to become a software engineer whilst engaging in the entrepreneurial route as well.
+I’m currently in high school. I will attend university in 2023 to attain a double degree in Computer Science Advanced + Commerce. This will enable me to develop the skills necessary to become a software engineer whilst engaging in the entrepreneurial route as well. Or perhaps I would like to do a double degree in Bachelor of Advanced Computing + Bachelor of Science (Medical Science). We will see.
 
 `Purpose`
 
