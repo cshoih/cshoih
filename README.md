@@ -29,9 +29,9 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 
 | Language | Ability |
 | ----------- | ----------- |
-| HTML |★★★☆☆☆☆☆☆☆ |
-| CSS | ★★★☆☆☆☆☆☆☆ |
-| JavaScript |★★☆☆☆☆☆☆☆☆|
+| HTML |★★★★☆☆☆☆☆☆ |
+| CSS | ★★★★☆☆☆☆☆☆ |
+| JavaScript |★★★★☆☆☆☆☆☆|
 | Python | ★★★☆☆☆☆☆☆☆ |
 | Markdown | ★★★★★★☆☆☆☆ |
 
