@@ -5,7 +5,7 @@ _Disclaimer for smartphone users: I haven't optimised this .md file for portrait
  
 `Background`
 
-I’m currently in high school. I will attend university in 2023 to attain a degree in Computer Science (majoring in Software) or Engineering (majoring in Software). Perhaps a double degree in med and comp sci? We will see.
+I’m currently in high school. I will attend university in 2023 to attain a degree in Computer Science (majoring in Software) or Engineering (majoring in Software). Perhaps a double degree in med and comp sci or arts and comp sci? I'll let this existential crisis dissolve on its own. Future me can deal with it later.
 
 `Purpose`
 
@@ -33,7 +33,6 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 | CSS | ★★★★☆☆☆☆☆☆ |
 | JavaScript |★★★★☆☆☆☆☆☆|
 | Python | ★★★☆☆☆☆☆☆☆ |
-| Markdown | ★★★★★★☆☆☆☆ |
 
 
 `Projects`
@@ -42,20 +41,6 @@ I’m exploring GitHub and gaining inspiration on interesting projects. I also w
 > Goal: To apply web programming knowledge by creating a beta website that amplifies the educational knowledge of GenZ culture, slang and English authenticity for Chinese teens. It will also be used as a platform to teach non-Chinese speakers to speak authentic teen Chinese lingo (Mandarin+other Dialects) from *real* natives. Creating this would heighten the appreciation of culture exchange, eradicate stereotypes and it will give them an opportunity to communicate more naturally. Considering the prohibition of many foreign outlets due to the Mainland Chinese Firewall and also the less important fact that people aren't bothered to translate the ever-growing GenZ language into the Chinese language, I guess I'll be the one to intervene. And let's be honest, those ancient archives for "slang" are really outdated. You need a swag person like me to really demonstrate the art of the youth.
 > >*Status: Private*
 
-
-`Interests`
-
-* AI, Machine Learning; AI Medical Diagnosing, Predict Stocks.
-
-* Quantitative Analysis; Cryptocurrency, Investments, Finance.
-
-* Web Development; UI, UX.
-
-* Educational Software; Language, Early Development Learning, General Education.
-
-* Medical Software; Dermatology, Psychology, Mental Health.
-
-* Threat Mitigation; Cybersecurity.
 
 
 <p align="middle">
