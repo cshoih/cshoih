@@ -1,13 +1,7 @@
 ## Hi, I’m @cshoih <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cinghoih" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/cinghoih?trk=profile-badge">Cing Hoih</a></div>
 
-silly goosing with code.
+silly goosing with code @UniMelb
 
-
-
-
-
-
-`Background:` CS @UniMelb '25
 
 <p align="middle">
   <img src="https://img.shields.io/github/commit-activity/m/cshoih/cshoih?color=%23F8DEF4&style=for-the-badge"/>
