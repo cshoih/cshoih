@@ -2,7 +2,7 @@
 
 silly goosing @ Hackathons. <br />
 non-goosing @ Encode Justice. <br />
-dilly-dallying @ UniMelb
+dilly-dallying @ UniMelb.
 
 
 <p align="middle">
