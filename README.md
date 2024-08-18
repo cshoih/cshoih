@@ -2,7 +2,7 @@
 
 silly-goosing @ [Hackathons](https://devpost.com/cshoih). <br />
 non-goosing @ [Encode Justice](https://encodejustice.org/). <br />
-dilly-dallying @ [UniMelb](https://umsu.unimelb.edu.au/news/article/7797/2017-03-30-flushed-away/).
+dilly-dallying @ [UniMelb](https://www.reddit.com/r/unimelb/comments/4d8y9f/best_toilets_on_campus/).
 
 
 <p align="middle">
