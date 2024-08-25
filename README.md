@@ -2,7 +2,8 @@
 
 silly-goosing @ [Hackathons](https://devpost.com/cshoih). <br />
 non-goosing @ [Encode Justice](https://encodejustice.org/). <br />
-dilly-dallying @ [UniMelb](https://www.reddit.com/r/unimelb/comments/4d8y9f/best_toilets_on_campus/).
+dilly-dallying @ [UniMelb](https://www.reddit.com/r/unimelb/comments/4d8y9f/best_toilets_on_campus/).  <br />
+opinion-brewing @ [Medium](https://medium.com/@cshoih).
 
 
 <p align="middle">
