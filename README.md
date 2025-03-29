@@ -1,7 +1,7 @@
 ## Hi, I’m @cshoih <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cinghoih" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/cinghoih?trk=profile-badge">Cing Hoih</a></div>
 
 silly-goosing @ [Hackathons](https://devpost.com/cshoih). <br />
-non-goosing @ [Encode Justice](https://encodejustice.org/). <br />
+non-goosing @ [Encode](https://encodeai.org/). <br />
 dilly-dallying @ [UniMelb](https://www.reddit.com/r/unimelb/comments/4d8y9f/best_toilets_on_campus/).  <br />
 
 
